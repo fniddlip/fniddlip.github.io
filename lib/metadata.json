@@ -1,21 +1,25 @@
 {
   "vaultName": "Worldbuilding",
-  "lastExport": 1746218000928,
+  "lastExport": 1746363164821,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon check-color check-bg wotc-beyond iconic-clickable-icons iconic-theme-its",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "0.Mechanics/Backgrounds/Marine.md",
+    "0.Mechanics/Classes/Warlock/Base Warlock.md",
     "0.Mechanics/Condities/Fluxvervuild.md",
     "0.Mechanics/Condities/Hongerig.md",
     "0.Mechanics/Condities/Uitgeput.md",
-    "0.Mechanics/Creatures/Glimmsnuffelaar.md",
-    "0.Mechanics/Rules/0Bondkrachten.md",
+    "0.Mechanics/Creatures - Enemies/Glimmsnuffelaar.md",
+    "0.Mechanics/Creatures - Enemies/Verrotte Pelgrim.md",
     "0.Mechanics/Rules/Fluxvervuiling (Gameplay).md",
     "0.Mechanics/Rules/Honger en Uitputting.md",
     "0.Mechanics/Rules/Initiatief.md",
     "0.Mechanics/Rules/Oogwenkacties.md",
     "0.Mechanics/Rules/Spell Save DC.md",
+    "0.Mechanics/Spells & Abilities/Cantrips/Eldritch Blast.md",
+    "0.Mechanics/Spells & Abilities/Cantrips/Toll the Dead.md",
     "1.Worldbuilding/Characters/Alfons Grauw.md",
     "1.Worldbuilding/Characters/Barendt Taeverman.md",
     "1.Worldbuilding/Characters/Gai'Rayu.md",
@@ -93,350 +97,374 @@
     "lib/styles/snippets.css"
   ],
   "fileInfo": {
+    "0.Mechanics/Backgrounds/Marine.md": {
+      "modifiedTime": 1746363164821,
+      "sourceSize": 221,
+      "exportedPath": "0.mechanics/backgrounds/marine.html",
+      "dependencies": []
+    },
+    "0.Mechanics/Classes/Warlock/Base Warlock.md": {
+      "modifiedTime": 1746363164821,
+      "sourceSize": 17171,
+      "exportedPath": "0.mechanics/classes/warlock/base-warlock.html",
+      "dependencies": []
+    },
     "0.Mechanics/Condities/Fluxvervuild.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 0,
       "exportedPath": "0.mechanics/condities/fluxvervuild.html",
       "dependencies": []
     },
     "0.Mechanics/Condities/Hongerig.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 191,
       "exportedPath": "0.mechanics/condities/hongerig.html",
       "dependencies": []
     },
     "0.Mechanics/Condities/Uitgeput.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 173,
       "exportedPath": "0.mechanics/condities/uitgeput.html",
       "dependencies": []
     },
-    "0.Mechanics/Creatures/Glimmsnuffelaar.md": {
-      "modifiedTime": 1746218000928,
+    "0.Mechanics/Creatures - Enemies/Glimmsnuffelaar.md": {
+      "modifiedTime": 1746363164821,
       "sourceSize": 1596,
-      "exportedPath": "0.mechanics/creatures/glimmsnuffelaar.html",
+      "exportedPath": "0.mechanics/creatures-enemies/glimmsnuffelaar.html",
       "dependencies": []
     },
-    "0.Mechanics/Rules/0Bondkrachten.md": {
-      "modifiedTime": 1746218000928,
-      "sourceSize": 133,
-      "exportedPath": "0.mechanics/rules/0bondkrachten.html",
+    "0.Mechanics/Creatures - Enemies/Verrotte Pelgrim.md": {
+      "modifiedTime": 1746363164821,
+      "sourceSize": 1250,
+      "exportedPath": "0.mechanics/creatures-enemies/verrotte-pelgrim.html",
       "dependencies": []
     },
     "0.Mechanics/Rules/Fluxvervuiling (Gameplay).md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 2034,
       "exportedPath": "0.mechanics/rules/fluxvervuiling-(gameplay).html",
       "dependencies": []
     },
     "0.Mechanics/Rules/Honger en Uitputting.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 537,
       "exportedPath": "0.mechanics/rules/honger-en-uitputting.html",
       "dependencies": []
     },
     "0.Mechanics/Rules/Initiatief.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 2976,
       "exportedPath": "0.mechanics/rules/initiatief.html",
       "dependencies": []
     },
     "0.Mechanics/Rules/Oogwenkacties.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 1738,
       "exportedPath": "0.mechanics/rules/oogwenkacties.html",
       "dependencies": []
     },
     "0.Mechanics/Rules/Spell Save DC.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 34,
       "exportedPath": "0.mechanics/rules/spell-save-dc.html",
       "dependencies": []
     },
+    "0.Mechanics/Spells & Abilities/Cantrips/Eldritch Blast.md": {
+      "modifiedTime": 1746363164821,
+      "sourceSize": 609,
+      "exportedPath": "0.mechanics/spells-&-abilities/cantrips/eldritch-blast.html",
+      "dependencies": []
+    },
+    "0.Mechanics/Spells & Abilities/Cantrips/Toll the Dead.md": {
+      "modifiedTime": 1746363164821,
+      "sourceSize": 575,
+      "exportedPath": "0.mechanics/spells-&-abilities/cantrips/toll-the-dead.html",
+      "dependencies": []
+    },
     "1.Worldbuilding/Characters/Alfons Grauw.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/characters/alfons-grauw.html",
       "dependencies": []
     },
     "1.Worldbuilding/Characters/Barendt Taeverman.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/characters/barendt-taeverman.html",
       "dependencies": []
     },
     "1.Worldbuilding/Characters/Gai'Rayu.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/characters/gai'rayu.html",
       "dependencies": []
     },
     "1.Worldbuilding/Characters/Humbertus Grauw.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/characters/humbertus-grauw.html",
       "dependencies": []
     },
     "1.Worldbuilding/Characters/Hyacinth Laagschaduw.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/characters/hyacinth-laagschaduw.html",
       "dependencies": []
     },
     "1.Worldbuilding/Characters/Theofiel Grauw IV.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/characters/theofiel-grauw-iv.html",
       "dependencies": []
     },
     "1.Worldbuilding/Goden/Arcka.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 1896,
       "exportedPath": "1.worldbuilding/goden/arcka.html",
       "dependencies": []
     },
     "1.Worldbuilding/Goden/Morrath'Mael.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/goden/morrath'mael.html",
       "dependencies": []
     },
     "1.Worldbuilding/Groups/Grauw (koninklijke bloedlijn).md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/groups/grauw-(koninklijke-bloedlijn).html",
       "dependencies": []
     },
     "1.Worldbuilding/Groups/Magigarde.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 4931,
       "exportedPath": "1.worldbuilding/groups/magigarde.html",
       "dependencies": []
     },
     "1.Worldbuilding/Groups/Morrath'Kai.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 629,
       "exportedPath": "1.worldbuilding/groups/morrath'kai.html",
       "dependencies": []
     },
     "1.Worldbuilding/Groups/Schildtknapen.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/groups/schildtknapen.html",
       "dependencies": []
     },
     "1.Worldbuilding/Other/Fluxvervuiling.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/other/fluxvervuiling.html",
       "dependencies": []
     },
     "1.Worldbuilding/Regions/Cities/Grauwstadt.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/regions/cities/grauwstadt.html",
       "dependencies": []
     },
     "1.Worldbuilding/Regions/Geographical/Dordal.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/regions/geographical/dordal.html",
       "dependencies": []
     },
     "1.Worldbuilding/Regions/Geographical/Morrval.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/regions/geographical/morrval.html",
       "dependencies": []
     },
     "1.Worldbuilding/Regions/Geographical/Vaarlandt.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/regions/geographical/vaarlandt.html",
       "dependencies": []
     },
     "1.Worldbuilding/Regions/Monuments/Toren van Antima.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/regions/monuments/toren-van-antima.html",
       "dependencies": []
     },
     "1.Worldbuilding/Regions/Nations/Alverrijk.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/regions/nations/alverrijk.html",
       "dependencies": []
     },
     "1.Worldbuilding/Regions/Nations/Grauwholdt.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 5004,
       "exportedPath": "1.worldbuilding/regions/nations/grauwholdt.html",
       "dependencies": []
     },
     "1.Worldbuilding/Regions/Seas/Grimzee.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 132,
       "exportedPath": "1.worldbuilding/regions/seas/grimzee.html",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 253,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Inleiding - De Corruptie van Grauwholdt.md": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 2384,
       "exportedPath": "inleiding-de-corruptie-van-grauwholdt.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1746218000928,
-      "sourceSize": 40389,
+      "modifiedTime": 1746363164821,
+      "sourceSize": 48746,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 1466671,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 723345,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 9046,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1746218000928,
+      "modifiedTime": 1746363164821,
       "sourceSize": 5436981,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
